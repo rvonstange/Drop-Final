@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>explosion/explo_fire0001@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1704, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0002@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 507}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0003@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1451}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0004@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1741}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0005@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0006@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{760, 507}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0007@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1124, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0008@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1414, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0009@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1377, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0010@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1667, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0011@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 871}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0012@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1161}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0013@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 1704}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0014@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 1667}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0015@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0016@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{834, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0017@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1087, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0018@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 291}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0019@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 1124}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0020@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 581}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0021@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 1414}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0022@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 1377}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0023@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{544, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0024@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 544}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0025@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 254}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0026@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0027@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 834}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0029@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 797}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0030@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{507, 1087}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0031@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{254, 1}, {251, 288}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {251, 288}}</string>
+			<key>sourceSize</key>
+			<string>{251, 288}</string>
+		</dict>
+		<key>explosion/explo_fire0032@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1957, 254}, {78, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {78, 54}}</string>
+			<key>sourceSize</key>
+			<string>{78, 54}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>textureFileName</key>
+		<string>explosion.png</string>
+	</dict>
+</dict>
+</plist>

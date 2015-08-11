@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>object_physics-game-ice/Board04@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1536, 2048}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1536, 2048}}</string>
+			<key>sourceSize</key>
+			<string>{1536, 2048}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{442, 1899}, {224, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {224, 112}}</string>
+			<key>sourceSize</key>
+			<string>{224, 112}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008, 1539}, {234, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {234, 80}}</string>
+			<key>sourceSize</key>
+			<string>{234, 80}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{165, 1539}, {465, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {465, 80}}</string>
+			<key>sourceSize</key>
+			<string>{465, 80}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 1539}, {234, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {234, 157}}</string>
+			<key>sourceSize</key>
+			<string>{234, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1408, 1539}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1090, 1539}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1149, 1857}, {158, 158}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {158, 158}}</string>
+			<key>sourceSize</key>
+			<string>{158, 158}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{668, 1889}, {159, 158}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {159, 158}}</string>
+			<key>sourceSize</key>
+			<string>{159, 158}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1305, 1698}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1069, 1775}, {80, 234}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 234}}</string>
+			<key>sourceSize</key>
+			<string>{80, 234}</string>
+		</dict>
+		<key>object_physics-game-ice/IT-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{247, 1539}, {80, 465}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 465}}</string>
+			<key>sourceSize</key>
+			<string>{80, 465}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{608, 1775}, {223, 112}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {223, 112}}</string>
+			<key>sourceSize</key>
+			<string>{223, 112}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{926, 1539}, {234, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {234, 80}}</string>
+			<key>sourceSize</key>
+			<string>{234, 80}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{83, 1539}, {465, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {465, 80}}</string>
+			<key>sourceSize</key>
+			<string>{465, 80}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{767, 1539}, {234, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {234, 157}}</string>
+			<key>sourceSize</key>
+			<string>{234, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1309, 1857}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1464, 1698}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{829, 1889}, {158, 158}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {158, 158}}</string>
+			<key>sourceSize</key>
+			<string>{158, 158}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{989, 1857}, {158, 158}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {158, 158}}</string>
+			<key>sourceSize</key>
+			<string>{158, 158}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1249, 1539}, {157, 157}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {157, 157}}</string>
+			<key>sourceSize</key>
+			<string>{157, 157}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 1775}, {80, 234}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 234}}</string>
+			<key>sourceSize</key>
+			<string>{80, 234}</string>
+		</dict>
+		<key>object_physics-game-ice/ITD-9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1539}, {80, 465}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {80, 465}}</string>
+			<key>sourceSize</key>
+			<string>{80, 465}</string>
+		</dict>
+		<key>object_physics-game-ice/big-dots-hd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2051, 643}, {960, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {960, 640}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>object_physics-game-ice/coin@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{329, 1899}, {133, 111}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {133, 111}}</string>
+			<key>sourceSize</key>
+			<string>{133, 111}</string>
+		</dict>
+		<key>object_physics-game-ice/defensor_turret0002@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{329, 1539}, {277, 358}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {277, 358}}</string>
+			<key>sourceSize</key>
+			<string>{277, 358}</string>
+		</dict>
+		<key>object_physics-game-ice/dot-square-hd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2693, 643}, {960, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {960, 640}}</string>
+			<key>sourceSize</key>
+			<string>{960, 640}</string>
+		</dict>
+		<key>object_physics-game-ice/laserDown@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1090, 1698}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>object_physics-game-ice/metalRounded@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1162, 1698}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>object_physics-game-ice/spiral-hd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3014, 1}, {961, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {961, 640}}</string>
+			<key>sourceSize</key>
+			<string>{961, 640}</string>
+		</dict>
+		<key>object_physics-game-ice/vertical-lines-hd@4x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2051, 1}, {961, 640}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {961, 640}}</string>
+			<key>sourceSize</key>
+			<string>{961, 640}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 2048}</string>
+		<key>textureFileName</key>
+		<string>object_physics-game-ice.png</string>
+	</dict>
+</dict>
+</plist>
